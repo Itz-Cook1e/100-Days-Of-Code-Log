@@ -13,3 +13,5 @@ Day 5: https://github.com/Itz-Cook1e/College-Mailbox-File (Adding to other proje
 Day 6: https://github.com/Itz-Cook1e/College-Days-of-Week/ (Adding to other projects as well)
 
 Day 7: Skipped (No time/energy)
+
+Day 8: SKipped (Im slacking...)
