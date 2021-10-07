@@ -14,4 +14,4 @@ Day 6: https://github.com/Itz-Cook1e/College-Days-of-Week/ (Adding to other proj
 
 Day 7: Skipped (No time/energy)
 
-Day 8: SKipped (Im slacking...)
+Day 8: Skipped (Im slacking...)
