@@ -15,3 +15,7 @@ Day 6: https://github.com/Itz-Cook1e/College-Days-of-Week/ (Adding to other proj
 Day 7: Skipped (No time/energy)
 
 Day 8: Skipped (Im slacking...)
+
+Day 9: Skipped (Im slacking...)
+
+Day 10: https://github.com/Itz-Cook1e/Breeze (Struggling with re-learning)
